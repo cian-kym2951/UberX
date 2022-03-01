@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UberX</string>
+    <string name="continueText">Continue</string>
+    <string name="sign_in_with_phone">Sign in with phone</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="logout">LOGOUT</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">LOGOUT</string>
+
+    <string name="menu_home">HOME</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="rating">0.0</string>
+    <string name="sign_out">SIGN OUT</string>
+
+</resources>
